@@ -1,0 +1,30 @@
+body{
+    background-color: darkslategray;
+    display: flex;
+    justify-content: center;
+
+}
+.digit{
+    height: 10px;
+    width: 10px;
+    text-align: center;
+    font-size: large;
+    justify-content: center;
+
+}
+#container{
+    text-align: center;
+    padding: 200px;
+}
+#start{
+    background-color: rgb(36, 218, 36);
+    color: blue;
+}
+#stop{
+    background-color: rgb(243, 21, 21);
+    color: black;
+}
+#reset{
+    background-color: rgb(229, 229, 29);
+    color: black;
+}
